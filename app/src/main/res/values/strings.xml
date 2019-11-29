@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Condense App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Services</string>
+    <string name="menu_slideshow">Ongoing Projects</string>
+    <string name="menu_tools">About Us</string>
+    <string name="menu_share">Contact Us</string>
+    <string name="web_development">Web Development</string>
+    <string name="seo">SEO</string>
+    <string name="smm">SMM</string>
+    <string name="analytics">Analytics</string>
+    <string name="ads">Ads</string>
+    <string name="description_web_development">Our team of experienced designers and developers create visually appealing websites coupled with modern frameworks Django, PHP, React and CMS (Word Press) ensure you are running on the latest technologies with advanced features.</string>
+    <string name="description_seo">We help to increase your online visibility and put your brand in front of the right audience, on theright channel, at the right point giving you the elusive competitive advantage. Back linking, site optimization and a variety of other SEO techniques to help you skyrocket your rankings and boost your number of monthly visitors from organic search.</string>
+    <string name="description_smm">Understanding your audience is key to your brand’s success in social media. The B2B buying journey, from discovery to conversion, may extend over weeks or months of information gathering, consumption and for the good stuff, sharing. At Condense we use the pioneering combination of traditional marketing, search marketing and social media to work for your brand, to improve direct website traffic, brand buzz and search engine rankings.</string>
+    <string name="description_ads">Online advertising has never been easier with Condense. The ads are tailored according to your brand and targeted to your potential customers giving you value for money. Keyword Targeting, Geographical Targeting and Timings are main techniques used to deliver ads increasing traffic and customers to your business.
+</string>
+    <string name="description_analytics">Data driven dashboards measuring a variety of Key Performance Indicators used to gain insights and make successful business decisions.</string>
+    <string name="what_we_do">What We Do!</string>
+    <string name="the_best">The Best</string>
+    <string name="urban_fruit">Urban Fruit</string>
+    <string name="great_apes">Great Apes</string>
+    <string name="description_urban_fruit">Urban fruit is a Chandigarh based startup catering to your home fruits and vegetables needs.</string>
+    <string name="description_great_apes">Building a community of proactive people, to help people find inspiration and discover easy to practice ideas and alternatives to a more sustainable life.
+</string>
+    <string name="menu_ongoing_projects">Ongoing Projects</string>
+    <string name="about_us_description">Condense is a digital marketing agency with a team of innovative technologists. We help to build your online visibility and put your brand in front of the right audience, on the right channel, at the right point , giving you the elusive competitive advantage. We are just starting out our journey to connect the offline and online world with a variety of ideas. At the intersection of creativity, technology, and strategy, condense exists. </string>
+    <string name="menu_about_us">About Us</string>
+    <string name="address_line_1">1069, Sector - 36/C</string>
+    <string name="address_line_2">Chandigarh, India</string>
+    <string name="phone_1">Mobile : 8427080433</string>
+    <string name="phone_2">Mobile : 9717479570</string>
+    <string name="mail_address">Email : help@condense.in</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_description">What would you like to know?</string>
+    <string name="query_button_text">Get in touch !</string>
+</resources>

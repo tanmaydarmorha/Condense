@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522671525606",
+    "firebase_url": "https://condense-36743.firebaseio.com",
+    "project_id": "condense-36743",
+    "storage_bucket": "condense-36743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522671525606:android:ec32c620a06b4a36947527",
+        "android_client_info": {
+          "package_name": "com.more.condenseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522671525606-5obdv98poqj7irnbqv4ua5q2libb2gd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.more.condenseapp",
+            "certificate_hash": "94c2927e5d945174f9150f6dc7226d61b68231bd"
+          }
+        },
+        {
+          "client_id": "522671525606-2fbvtm2ffb0rbfh0oejsp74r7kgoq8k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_X-l4rbBakzM7P3lsmszD4zpVNyUFb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522671525606-2fbvtm2ffb0rbfh0oejsp74r7kgoq8k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

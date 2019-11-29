@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F8FA"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:autoSizePresetSizes="@array/autosize_text_sizes"
+        android:autoSizeTextType="uniform"
+        android:fontFamily="@font/questrial"
+        android:gravity="center"
+        android:text="@string/menu_about_us"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="___________________________________"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/opening_quotes" />
+
+    <TextView
+        android:id="@+id/about_us_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoSizePresetSizes="@array/autosize_text_sizes"
+        android:autoSizeTextType="uniform"
+        android:fontFamily="@font/questrial"
+        android:justificationMode="inter_word"
+        android:lineSpacingExtra="8sp"
+        android:minHeight="300dp"
+        android:padding="16dp"
+        android:text="@string/about_us_description" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/closing_quotes" />
+</LinearLayout>

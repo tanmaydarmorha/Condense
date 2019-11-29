@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/background" />
+
+    <TextView
+        android:id="@+id/line_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_alignParentTop="true"
+        android:fontFamily="@font/questrial"
+        android:gravity="center"
+        android:text="We Innovate,"
+        android:textColor="#ffffff"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/line_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line_1"
+        android:fontFamily="@font/questrial"
+        android:gravity="center"
+        android:text="We Create,"
+        android:textColor="#ffffff"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/line_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line_2"
+        android:fontFamily="@font/questrial"
+        android:gravity="center"
+        android:text="We Collaborate!"
+        android:textColor="#ffffff"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/line_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/questrial"
+        android:textSize="50sp"
+        android:layout_above="@id/line_5"
+        android:text="We Progress"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_marginBottom="100dp"
+        android:id="@+id/line_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/questrial"
+        android:textSize="50sp"
+        android:text="Here at Condense..."
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:textColor="#ffffff"
+        android:gravity="center"/>
+
+</RelativeLayout>

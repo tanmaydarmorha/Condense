@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#F7F8FA"
+        android:fontFamily="@font/questrial"
+        android:gravity="center"
+        android:text="@string/what_we_do"
+        android:textAlignment="center"
+        android:autoSizeTextType="uniform"
+        android:autoSizePresetSizes="@array/autosize_text_sizes" />
+
+    <TextView
+        android:background="#F7F8FA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="___________________________________"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/the_best"
+        android:padding="16dp"
+        android:background="#F7F8FA"
+        android:autoSizeTextType="uniform"
+        android:autoSizePresetSizes="@array/autosize_text_sizes"
+        android:textAlignment="center"/>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".servicesFragment">
+
+
+        <ListView
+            android:id="@+id/list_services"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawSelectorOnTop="true"
+            android:orientation="vertical" />
+
+    </FrameLayout>
+
+</LinearLayout>
+
